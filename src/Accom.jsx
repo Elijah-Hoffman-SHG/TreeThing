@@ -33,7 +33,7 @@ const Ring = styled.div`
   align-items: center;
   justify-content: center;
   position: absolute;
-  animation: ${circleAnimation} 10s linear infinite, ${growAnimation} 10s ease-in-out infinite alternate;
+  animation: ${circleAnimation} 10s linear infinite
 `;
 
 // Text on the ring
